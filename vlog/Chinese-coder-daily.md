@@ -1,11 +1,11 @@
 ---
-title: 国产程序员的一天
+title: VLOG-004：国产程序员的一天
 date: 2019/02/20 08:00:00
 categories: 
 - VLOG
 ---
 
-![](https://ws4.sinaimg.cn/large/006tKfTcly1g0dz3to9eqj30zk0k0dgx.jpg)
+![](https://i.loli.net/2019/04/29/5cc656ede2e8e.jpg)
 
 `VLOG` 近些年非常流行，最近这段时间我也拍了一些来记录生活。
 
